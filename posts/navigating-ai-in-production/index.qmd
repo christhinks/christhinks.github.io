@@ -2,6 +2,9 @@
 title: "Navigating AI in Production"
 author: "for TalkingParents"
 format: revealjs
+link-external-newwindow: true
+controls: true
+progress: true
 ---
 
 ## Navigation
@@ -29,15 +32,15 @@ SOC 2 Compliance Status
 :::: {.columns}
 
 ::: {.column width="50%"}
-- [OpenAI](https://trust.openai.com/){target="_blank"}
-- [Anthropic](https://trust.anthropic.com/){target="_blank"}
-- [Google](https://workspaceupdates.googleblog.com/2024/08/gemini-soc-compliance.html){target="_blank"}
+- [OpenAI](https://trust.openai.com/)
+- [Anthropic](https://trust.anthropic.com/)
+- [Google](https://workspaceupdates.googleblog.com/2024/08/gemini-soc-compliance.html)
 :::
 
 ::: {.column width="50%"}
-- [Braintrust](https://www.braintrust.dev/blog/soc2){target="_blank"}
-- [LangSmith](https://changelog.langchain.com/announcements/langsmith-is-now-soc-2-type-ii-compliant){target="_blank"}
-- [Cursor](https://www.cursor.com/security){target="_blank"}
+- [Braintrust](https://www.braintrust.dev/blog/soc2)
+- [LangSmith](https://changelog.langchain.com/announcements/langsmith-is-now-soc-2-type-ii-compliant)
+- [Cursor](https://www.cursor.com/security)
 :::
 ::::
 
@@ -64,39 +67,39 @@ SOC 2 Compliance Status
     - Almost free at 60 cents per million output tokens
 
 ## List of Models
-- [OpenAI](https://platform.openai.com/docs/models){target="_blank"}
-- [Anthropic](https://docs.anthropic.com/en/docs/about-claude/models){target="_blank"}
-- [Google](https://ai.google.dev/gemini-api/docs/models/gemini){target="_blank"}
+- [OpenAI](https://platform.openai.com/docs/models)
+- [Anthropic](https://docs.anthropic.com/en/docs/about-claude/models)
+- [Google](https://ai.google.dev/gemini-api/docs/models/gemini)
 
 ## Pitfalls
-- [Prompt Injection](https://simonwillison.net/tags/prompt-injection/){target="_blank"} described by Simon Willison
+- [Prompt Injection](https://simonwillison.net/tags/prompt-injection/) described by Simon Willison
     - "Prompt Injection is a security attack against applications built on top of Large Language Models"
 - Jailbreaking by Elder Plinius
-    - [GPT-4O-LATEST-20241120](https://x.com/elder_plinius/status/1859346651204222983){target="_blank"}
+    - [GPT-4O-LATEST-20241120](https://x.com/elder_plinius/status/1859346651204222983)
 
 ## Tools
 - Evals
-    - [Braintrust](https://www.braintrust.dev/){target="_blank"}
-        - [Cookbooks](https://www.braintrust.dev/docs/cookbook){target="_blank"}
-    - [AI Inspect](https://github.com/UKGovernmentBEIS/inspect_ai){target="_blank"}
-        - [Tutorials](https://inspect.ai-safety-institute.org.uk/tutorial.html){target="_blank"}
-    - [LangSmith](https://www.langchain.com/langsmith){target="_blank"}
+    - [Braintrust](https://www.braintrust.dev/)
+        - [Cookbooks](https://www.braintrust.dev/docs/cookbook)
+    - [AI Inspect](https://github.com/UKGovernmentBEIS/inspect_ai)
+        - [Tutorials](https://inspect.ai-safety-institute.org.uk/tutorial.html)
+    - [LangSmith](https://www.langchain.com/langsmith)
 
 ## Iteration
 ![Braintrust Flywheel](assets/braintrust-flywheel.png)
 
 # Resources
 ## AI Practioners
-- [Eugene Yan](https://eugeneyan.com/writing/conf-lessons/){target="_blank"}
-    - [AlignEval: Gamifying Evals](https://eugeneyan.com/writing/aligneval/){target="_blank"}
-- [Simon Willison](https://simonwillison.net/2023/Dec/31/ai-in-2023/#smart-and-dumb){target="_blank"}
+- [Eugene Yan](https://eugeneyan.com/writing/conf-lessons/)
+    - [AlignEval: Gamifying Evals](https://eugeneyan.com/writing/aligneval/)
+- [Simon Willison](https://simonwillison.net/2023/Dec/31/ai-in-2023/#smart-and-dumb)
 
 ## AI News
-- [AI News](https://buttondown.com/ainews){target="_blank"}
-- [AlphaSignal](https://alphasignal.ai/){target="_blank"}
+- [AI News](https://buttondown.com/ainews)
+- [AlphaSignal](https://alphasignal.ai/)
 
 ## AI Events
-- [AI Engineer](https://www.ai.engineer/){target="_blank"}
+- [AI Engineer](https://www.ai.engineer/)
 
 ## Questions
 - What do you consider (if anything) to be your competition?
