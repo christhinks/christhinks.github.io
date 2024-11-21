@@ -1,30 +1,100 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
-    "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "objectID": "posts/navigating-ai-in-production/index.html#navigation",
+    "href": "posts/navigating-ai-in-production/index.html#navigation",
+    "title": "Navigating AI in Production",
+    "section": "Navigation",
+    "text": "Navigation\n\n\n\nTrust\nModels\nPitfalls\n\n\n\nTools\nIteration\nResources"
+  },
+  {
+    "objectID": "posts/navigating-ai-in-production/index.html#trust",
+    "href": "posts/navigating-ai-in-production/index.html#trust",
+    "title": "Navigating AI in Production",
+    "section": "Trust",
+    "text": "Trust\nSOC 2 Compliance Status\n\n\n\nOpenAI\nAnthropic\nGoogle\n\n\n\nBraintrust\nLangSmith\nCursor"
+  },
+  {
+    "objectID": "posts/navigating-ai-in-production/index.html#workhorse-class",
+    "href": "posts/navigating-ai-in-production/index.html#workhorse-class",
+    "title": "Navigating AI in Production",
+    "section": "Workhorse class",
+    "text": "Workhorse class\n\nGPT-4o\n\nFast, also has vision\n\nSonnet 3.5 *New\n\nAbnormally coherent, better at instruction following"
+  },
+  {
+    "objectID": "posts/navigating-ai-in-production/index.html#intelligent-reasoning-models",
+    "href": "posts/navigating-ai-in-production/index.html#intelligent-reasoning-models",
+    "title": "Navigating AI in Production",
+    "section": "Intelligent, Reasoning Models",
+    "text": "Intelligent, Reasoning Models\nThese models spend time “thinking” before answering\n\no1 Preview\n\nExcels in scientific analysis and planning\n\no1 Mini\n\nOptimized for math and coding tasks"
+  },
+  {
+    "objectID": "posts/navigating-ai-in-production/index.html#dirt-cheap-generalists",
+    "href": "posts/navigating-ai-in-production/index.html#dirt-cheap-generalists",
+    "title": "Navigating AI in Production",
+    "section": "Dirt cheap generalists",
+    "text": "Dirt cheap generalists\n\nGemini 1.5 Flash\n\n2M token context window\n\nGPT-4o-mini\n\nAlmost free at 60 cents per million output tokens"
+  },
+  {
+    "objectID": "posts/navigating-ai-in-production/index.html#list-of-models",
+    "href": "posts/navigating-ai-in-production/index.html#list-of-models",
+    "title": "Navigating AI in Production",
+    "section": "List of Models",
+    "text": "List of Models\n\nOpenAI\nAnthropic\nGoogle"
+  },
+  {
+    "objectID": "posts/navigating-ai-in-production/index.html#pitfalls",
+    "href": "posts/navigating-ai-in-production/index.html#pitfalls",
+    "title": "Navigating AI in Production",
+    "section": "Pitfalls",
+    "text": "Pitfalls\n\nPrompt Injection described by Simon Willison\n\n“Prompt Injection is a security attack against applications built on top of Large Language Models”\n\nJailbreaking by Elder Plinius\n\nGPT-4O-LATEST-20241120"
+  },
+  {
+    "objectID": "posts/navigating-ai-in-production/index.html#tools",
+    "href": "posts/navigating-ai-in-production/index.html#tools",
+    "title": "Navigating AI in Production",
+    "section": "Tools",
+    "text": "Tools\n\nEvals\n\nBraintrust\n\nCookbooks\n\nAI Inspect\n\nTutorials\n\nLangSmith"
+  },
+  {
+    "objectID": "posts/navigating-ai-in-production/index.html#iteration",
+    "href": "posts/navigating-ai-in-production/index.html#iteration",
+    "title": "Navigating AI in Production",
+    "section": "Iteration",
+    "text": "Iteration\n\nBraintrust Flywheel"
+  },
+  {
+    "objectID": "posts/navigating-ai-in-production/index.html#ai-practioners",
+    "href": "posts/navigating-ai-in-production/index.html#ai-practioners",
+    "title": "Navigating AI in Production",
+    "section": "AI Practioners",
+    "text": "AI Practioners\n\nEugene Yan\n\nAlignEval: Gamifying Evals\n\nSimon Willison"
+  },
+  {
+    "objectID": "posts/navigating-ai-in-production/index.html#ai-news",
+    "href": "posts/navigating-ai-in-production/index.html#ai-news",
+    "title": "Navigating AI in Production",
+    "section": "AI News",
+    "text": "AI News\n\nAI News\nAlphaSignal"
+  },
+  {
+    "objectID": "posts/navigating-ai-in-production/index.html#ai-events",
+    "href": "posts/navigating-ai-in-production/index.html#ai-events",
+    "title": "Navigating AI in Production",
+    "section": "AI Events",
+    "text": "AI Events\n\nAI Engineer"
+  },
+  {
+    "objectID": "posts/navigating-ai-in-production/index.html#questions",
+    "href": "posts/navigating-ai-in-production/index.html#questions",
+    "title": "Navigating AI in Production",
+    "section": "Questions",
+    "text": "Questions\n\nWhat do you consider (if anything) to be your competition?\nWhat do you think you’re missing out on by not having more AI in TalkingParents?\nDo you plan to add something like Tone Monitoring to TalkingParents?\nHow well eqipped is the team to implement language models in production?"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "christhinks",
+    "title": "Creating Leverage",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nNov 21, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 18, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code."
+    "text": "Navigating AI in Production\n\n\n\n\n\n\n\n\n\n\n\nfor TalkingParents\n\n\n\n\n\n\nNo matching items"
   }
 ]
