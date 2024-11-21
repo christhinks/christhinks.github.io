@@ -3,16 +3,19 @@ project:
   output-dir: gh-pages
 
 website:
-  title: "christhinks"
+  title: "Chris Thinks"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/chrischcodes
+  site-url: https://christhinks.github.io/
+  google-analytics: G-BMK1V40GJ4
+  twitter-card: true
+  open-graph: true
+
 format:
   html:
-    theme: cosmo
+    theme: lux
     css: styles.css
 
