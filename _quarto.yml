@@ -6,7 +6,6 @@ website:
   title: "Chris Thinks"
   navbar:
     right:
-      - about.qmd
       - icon: github
         href: https://github.com/chrischcodes
   site-url: https://christhinks.github.io/
@@ -16,6 +15,6 @@ website:
 
 format:
   html:
-    theme: lux
+    theme: spacelab
     css: styles.css
 
